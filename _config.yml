@@ -18,17 +18,17 @@ avatar: https://i0.wp.com/www.karsidonline.com/wp-content/uploads/2018/07/croppe
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:
-  facebook:
+  email: kvnandula04@gmail.com
+  facebook: Karthik Nandula
   flickr:
-  github: barryclark/jekyll-now
-  instagram:
-  linkedin:
+  github: kvnandula04/kvnandula04.github.io
+  instagram: apple.karthik1
+  linkedin: Karthik Nandula
   pinterest:
-  rss: # just type anything here for a working RSS icon
-  twitter: jekyllrb
+  rss: true # just type anything here for a working RSS icon
+  twitter: NandulaKarthik
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
-  youtube: # channel/<your_long_string> or user/<user-name>
+  youtube: user/FunDeveloper # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
 
 
