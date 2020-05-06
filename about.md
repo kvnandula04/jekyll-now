@@ -16,7 +16,11 @@ I am Karthik Nandula and I am the Admin and one of the content writers at [KARSI
 
 This is a digital garden. It's a collection of useful and interesting links and notes that I have come across. There are programming notes, drafts, potential ideas, blog links, exciting videos and more. Through this, I hope to document my learnings. And I hope that it can help you discover something new. Go ahead and explore this wild garden! But be careful near the stinging nettles.
 
-##### check these out ✨
+##### connect 
 
-- [{{ site.author.email }}](mailto:{{site.author.email}})
-- [github.com/{{ site.author.username }}] (https://www.github.com/{{site.author.username}})
+- [Twitter](https://twitter.com/nandulakarthik)
+- [Facebook](https://www.facebook.com/karthiknandula1)
+- [Instagram](https://www.instagram.com/apple.karthik1/?hl=en)
+- [LinkedIn](https://uk.linkedin.com/in/karthik-nandula)
+- [YouTube](https://www.youtube.com/channel/UCKPqvwlU9lKunpD8yPf4NqQ)
+
