@@ -1,5 +1,5 @@
 ---
-title: about me
+title: about
 permalink: /about/
 layout: page
 excerpt: >-
