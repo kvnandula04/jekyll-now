@@ -157,6 +157,7 @@ body[data-theme="dark"] {
   .post-item {
     &:not(:first-child) {
       border-color: $dark-light;
+      text-align: center;
     }
 
     .post-item-date {
