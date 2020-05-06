@@ -19,4 +19,4 @@ This is a digital garden. It's a collection of useful and interesting links and 
 ##### check these out ✨
 
 - [{{ site.author.email }}](mailto:{{site.author.email}})
-- [github.com/{{ site.author.username }}] (github.com/{{site.author.username}})
+- [github.com/{{ site.author.username }}] (https://www.github.com/{{site.author.username}})
