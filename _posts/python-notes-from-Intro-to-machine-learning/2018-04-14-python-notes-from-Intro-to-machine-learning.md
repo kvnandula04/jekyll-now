@@ -7,7 +7,7 @@ tags:
 description: >-
   Notes and code snippets of Python that I've been collecting so far throughout
   the "Intro to Machine Learning" course.
-published: false
+published: true
 ---
 
 ##### This article is for Demo purpose
