@@ -37,4 +37,8 @@ Getting stuff done isn't the same as doing the stuff. <br />
  - Numerical goals - <i>I wanna get x subscribers</i> <br />
  - Progress goals - <i>improving quality of videos</i><br />
  
- It's perhaps better to think of goals as progress as opposed to numerical.
+ It's perhaps better to think of goals as progress as opposed to numerical.<br />
+ 
+  <strong>The 'Might-Do' List 😂</strong><br />
+  
+ 
