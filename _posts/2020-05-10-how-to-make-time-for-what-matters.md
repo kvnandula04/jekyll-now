@@ -5,7 +5,7 @@ description: Notes from Ali Abdaal's livestream.
 published: true
 ---
 
-## Books Mentioned: <br />
+## Books Mentioned:
 Make Time - John Zeratsky <br />
 Getting Things Done - David Allen<br />
 The Sprint - John Zeratsky <br />
@@ -18,7 +18,7 @@ A vision helps see what you can do to get 'there' so it's useful. <br />
 
 Getting stuff done isn't the same as doing the stuff. <br />
 
-## Steps to make time: <br />
+## Steps to make time:
 1) <strong>Highlight</strong> - Make time (Defense) <br />
 2) <strong>Laser</strong> - Stay focused(eliminate distractions) (Offense) <br />
 3) <strong>Energise</strong> - Simple ways to take care of yourself so that you have energy to do what you want. <br />
@@ -49,7 +49,7 @@ Getting stuff done isn't the same as doing the stuff. <br />
  
  Similar to goals, a to-do list is like a guide to remind you what you need to. The actual task isn't done until you translate the to-do list to an action. <br />
  
-## Differences between GTD and Make Time <br />
+## Differences between GTD and Make Time
 Make Time is really a focusing system to figuire out what matters. It mainly provides tools to avoid distractions and build energy to your system. GTD however, is more of a system that you have to follow to enjoy its benefits. Make Time is not an organisational system. It's more of a tool. <br />
  
  - Don't get trapped in finding the perfect productivity system.
@@ -57,7 +57,7 @@ Make Time is really a focusing system to figuire out what matters. It mainly pro
 Works expands to fill the time that we allocate to it.
 When you build and allocate a lot of time to one particular task, you can really get quality out of it.
 
-## Becoming a Morning Person <br />
+## Becoming a Morning Person
  - When you wake up early with a task that you know you want to do, it provides a motivation to power yourself to wake up early. <br />
  - Staring at a screen immeditely before sleep can be super disruptive before you go to bed. If you wanna wake up early, first thing you have to do is sleep early. And to do this, you have to set a time to put away your devices so that you aren't distracted. <br />
  
