@@ -24,6 +24,11 @@ Getting stuff done isn't the same as doing the stuff. <br />
 4) <strong>Reflect</strong> - Look back and take notes on what worked for you. <br />
 
 <strong>Q) How do you think about what your highlight should be vs what your to-do list should be? </strong><br />
-Use your highlight to design/structure what the rest of the day looks like. <br />
-Our experience of life is based on what we pay attention to. <br />
-It's essentially a focusing tool on top of what you're already commited to. <br />
+ - Use your highlight to design/structure what the rest of the day looks like. <br />
+ - Our experience of life is based on what we pay attention to. <br />
+ - A highlight is essentially a focusing tool on top of what you're already commited to. <br />
+ 
+ <strong>Q) How do you think about goals? </strong><br />
+  - Think of goals as directions not destinations. <br />
+  - They're more like stepping stones to structure your day. <br />
+  - When we focus too much on goals, we put ourselves in a situation where we can't win.<br />
