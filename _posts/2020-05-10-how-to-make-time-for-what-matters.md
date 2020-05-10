@@ -6,7 +6,7 @@ published: true
 ---
 
 ## Video Link
-<iframe width="1440" height="620" src="https://www.youtube.com/embed/dE5TrGWl4wE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="440" height="120" src="https://www.youtube.com/embed/dE5TrGWl4wE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Books Mentioned:
 1) <strong>Make Time</strong> - John Zeratsky <br />
