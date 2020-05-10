@@ -17,8 +17,6 @@ Mission and vision are different. <br />
 <strong>Mission</strong> - How you want the world to be different with the work you're doing. <br />
 <strong>Vision</strong> - A mental picture of what it would look like if you persued that mission. A vision helps see what you can do to get 'there' so it's useful. <br />
 
-Getting stuff done isn't the same as doing the stuff. <br />
-
 ## Steps to make time: 
 <details>
 <summary>1) <strong>Highlight</strong> - Make time (Defense)</summary><br />
@@ -70,7 +68,7 @@ Make Time is really a focusing system to figuire out what matters. It mainly pro
 </details>
 
 <details>
-<summary>2) <strong>Laser</strong> - Stay focused(eliminate distractions) (Offense)</summary> <br />
+<summary>2) <strong>Laser</strong> - Stay focused(eliminate distractions) (Offense)</summary>
  
 ### Laser Music
  - Listen to music which doesn't interrupt your foreground. <br />
@@ -94,4 +92,5 @@ Make Time is really a focusing system to figuire out what matters. It mainly pro
 - When you build and allocate a lot of time to one particular task, you can really get quality out of it. <br /> 
 - Should you go for safer options or a more story-worthy life? <br />
 - With creating stories, the benefits are more for you than bragging about yourself to others. <br />
+- Getting stuff done isn't the same as doing the stuff. <br />
 </details>
