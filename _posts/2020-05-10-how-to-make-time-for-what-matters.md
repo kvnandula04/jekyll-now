@@ -46,46 +46,47 @@ Mission and vision are different. <br />
  
  Similar to goals, a to-do list is like a guide to remind you what you need to. The actual task isn't done until you translate the to-do list to an action. <br />
  
-### Differences between GTD and Make Time
+<strong>Differences between GTD and Make Time</strong><br />
+
 Make Time is really a focusing system to figuire out what matters. It mainly provides tools to avoid distractions and build energy to your system. GTD however, is more of a system that you have to follow to enjoy its benefits. Make Time is not an organisational system. It's more of a tool. <br />
  
  - Don't get trapped in finding the perfect productivity system.<br />
 
-### Becoming a Morning Person
+<strong>Becoming a Morning Person</strong><br />
  - When you wake up early with a task that you know you want to do, it provides a motivation to power yourself to wake up early. <br />
  - Staring at a screen immeditely before sleep can be super disruptive before you go to bed. If you wanna wake up early, first thing you have to do is sleep early. And to do this, you have to set a time to put away your devices so that you aren't distracted. <br />
  
-### How do you start? 
+<strong>How do you start?</strong><br />
  - Break down big things to small things. <br />
  - Start in the middle. Pick the thing that feels like a good place to jump in. <br />
  - Dive in where you can dive in and spread out from there. <br />
  
-### How to do tasks when they don't have a deadline?
+<strong>How to do tasks when they don't have a deadline?</strong><br />
  - Schedule days where you think you can do the task. <br />
  - Create deadlines for yourself. <br />
 
-### What are the best ways to stay focused on tasks?
+<strong>What are the best ways to stay focused on tasks?</strong><br />
  - Create friction for social media. For example, use auto-generated passwords that you can't remember and save it in some document. Every time you're done with the social media app, logout. Whenever you're drawn in, you'll be stuck with the login page and so you will basically retire to your original task. <br />
 </details>
 
 <details>
 <summary>2) <strong>Laser</strong> - Stay focused(eliminate distractions) (Offense)</summary> <br />
  
-### Laser Music
+<strong>Laser Music</strong><br />
  - Listen to music which doesn't interrupt your foreground. <br />
  
 </details>
 
 <details>
 <summary>3) <strong>Energise</strong> - Simple ways to take care of yourself so that you have energy to do what you want. </summary> <br />
- - Focus on small things every day to build habits - especially exercise. <br />
+ - Focus on small things every day to build habits - especially exercise. <br /><br />
 </details>
 
 <details>
  
 <summary>4) <strong>Reflect</strong> - Look back and take notes on what worked for you. </summary> <br />
  - Write something 'story worthy' at the end of the day. This helps you force yourself to create a good story everyday. <br />
- - Maybe you should life as if you can create a story of yourself. Don't make it boring. <br />
+ - Maybe you should life as if you can create a story of yourself. Don't make it boring. <br /><br />
 </details>
 
 <details>
@@ -94,5 +95,5 @@ Make Time is really a focusing system to figuire out what matters. It mainly pro
 - When you build and allocate a lot of time to one particular task, you can really get quality out of it. <br /> 
 - Should you go for safer options or a more story-worthy life? <br />
 - With creating stories, the benefits are more for you than bragging about yourself to others. <br />
-- Getting stuff done isn't the same as doing the stuff. <br />
+- Getting stuff done isn't the same as doing the stuff. <br /><br />
 </details>
