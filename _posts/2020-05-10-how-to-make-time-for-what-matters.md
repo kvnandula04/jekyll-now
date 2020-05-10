@@ -71,7 +71,8 @@ When you build and allocate a lot of time to one particular task, you can really
  - Create deadlines for yourself.
 
 ## What are the best ways to stay focused on tasks?
- - 
+ - Create friction for social media. For example, use auto-generated passwords that you can't remember and save it in some document. Every time you're done with the social media app, logout. Whenever you're drawn in, you'll be stuck with the login page and so you will basically retire to your original task.
+ 
 
  
  
