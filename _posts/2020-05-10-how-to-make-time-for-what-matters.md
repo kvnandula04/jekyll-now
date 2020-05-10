@@ -6,26 +6,21 @@ published: true
 ---
 
 ## Books Mentioned:
-Make Time - John Zeratsky <br />
-Getting Things Done - David Allen<br />
-The Sprint - John Zeratsky <br />
+1) <strong>Make Time</strong> - John Zeratsky <br />
+2) <strong>Getting Things Done</strong> - David Allen<br />
+3) <strong>The Sprint</strong> - John Zeratsky <br />
 
 ## Mission vs Vision:
 Mission and vision are different. <br />
-Mission - how you want the world to be different with the work you're doing. <br />
-Vision - a mental picture of what it would look like if you persued that mission. <br />
-A vision helps see what you can do to get 'there' so it's useful. <br />
+Mission - How you want the world to be different with the work you're doing. <br />
+Vision - A mental picture of what it would look like if you persued that mission. A vision helps see what you can do to get 'there' so it's useful. <br />
 
 Getting stuff done isn't the same as doing the stuff. <br />
 
-## Steps to make time:
-1) <strong>Highlight</strong> - Make time (Defense) <br />
-2) <strong>Laser</strong> - Stay focused(eliminate distractions) (Offense) <br />
-3) <strong>Energise</strong> - Simple ways to take care of yourself so that you have energy to do what you want. <br />
-4) <strong>Reflect</strong> - Look back and take notes on what worked for you. <br />
- 
+## Steps to make time: 
 <details>
 <summary>1) <strong>Highlight</strong> - Make time (Defense)</summary>
+ 
  <strong>How do you think about what your highlight should be vs what your to-do list should be? </strong><br />
  - Use your highlight to design/structure what the rest of the day looks like. <br />
  - Our experience of life is based on what we pay attention to. <br />
@@ -84,4 +79,13 @@ When you build and allocate a lot of time to one particular task, you can really
 
 </details>
 
+<details>
+<summary>3) <strong>Energise</strong> - Simple ways to take care of yourself so that you have energy to do what you want. </summary>
+
 Focus on small things every day to build habits - especially exercise.
+
+</details>
+
+4) <strong>Reflect</strong> - Look back and take notes on what worked for you. <br />
+
+
