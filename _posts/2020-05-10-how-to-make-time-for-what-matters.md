@@ -7,9 +7,10 @@ published: true
 
 ## Books Mentioned: <br />
 Make Time - John Zeratsky <br />
-Getting Things Done <br />
+Getting Things Done - David Allen<br />
+The Sprint<br />
 
-## Notes:
+## Mission vs Vision:
 Mission and vision are different. <br />
 Mission - how you want the world to be different with the work you're doing. <br />
 Vision - a mental picture of what it would look like if you persued that mission. <br />
@@ -48,5 +49,7 @@ Getting stuff done isn't the same as doing the stuff. <br />
  
  Similar to goals, a to-do list is like a guide to remind you what you need to. The actual task isn't done until you translate the to-do list to an action. <br />
  
+ ## Differences between GTD and Make Time <br />
+ 1) Make Time is really a focusing system to figuire out what matters. It mainly provides tools to avoid distractions and build energy to your system. GTD however, is more of a system that you have to follow to enjoy its benefits. Make Time is not an organisational system. It's more of a tool. <br />
  
- 
+ - Don't get trapped in finding the perfect productivity system.
