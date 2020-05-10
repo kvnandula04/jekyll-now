@@ -40,8 +40,13 @@ Getting stuff done isn't the same as doing the stuff. <br />
  It's perhaps better to think of goals as progress as opposed to numerical.<br />
  
  <strong>The 'Might-Do' List 😂</strong><br />
+ 
  It's essentially a list that doesn't have any commitments. 
  It has some rules:
  - Plaintext/ unprecious
- - No ranking or prioritising.
+ - No ranking or prioritising.<br />
+ 
+ Similar to goals, a to-do list is like a guide to remind you what you need to. The actual task isn't done until you translate the to-do list to an action. <br />
+ 
+ 
  
