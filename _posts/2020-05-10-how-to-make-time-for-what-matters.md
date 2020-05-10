@@ -25,7 +25,7 @@ Getting stuff done isn't the same as doing the stuff. <br />
 4) <strong>Reflect</strong> - Look back and take notes on what worked for you. <br />
  
 <details>
-<summary>## Highlight</summary>
+<summary>1) <strong>Highlight</strong> - Make time (Defense)</summary>
  <strong>How do you think about what your highlight should be vs what your to-do list should be? </strong><br />
  - Use your highlight to design/structure what the rest of the day looks like. <br />
  - Our experience of life is based on what we pay attention to. <br />
@@ -47,7 +47,7 @@ Getting stuff done isn't the same as doing the stuff. <br />
  It's essentially a list that doesn't have any commitments. 
  It has some rules:
  - Plaintext/ unprecious
- - No ranking or prioritising.<br />
+ - No ranking or prioritising.
  
  Similar to goals, a to-do list is like a guide to remind you what you need to. The actual task isn't done until you translate the to-do list to an action. <br />
  
@@ -77,7 +77,7 @@ When you build and allocate a lot of time to one particular task, you can really
 </details>
 
 <details>
-<summary>## Laser</summary>
+<summary>2) <strong>Laser</strong> - Stay focused(eliminate distractions) (Offense)</summary>
 
 #### Laser Music
  - Listen to music which doesn't interrupt your foreground.
