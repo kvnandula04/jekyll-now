@@ -53,5 +53,9 @@ Getting stuff done isn't the same as doing the stuff. <br />
 Make Time is really a focusing system to figuire out what matters. It mainly provides tools to avoid distractions and build energy to your system. GTD however, is more of a system that you have to follow to enjoy its benefits. Make Time is not an organisational system. It's more of a tool. <br />
  
  - Don't get trapped in finding the perfect productivity system.
- 
- 
+
+Works expands to fill the time that we allocate to it.
+When you build and allocate a lot of time to one particular task, you can really get quality out of it.
+
+## Becoming a Morning Person <br />
+When you wake up early with a task that you know you want to do, it provides a motivation to power yourself to wake up early.
