@@ -39,6 +39,9 @@ Getting stuff done isn't the same as doing the stuff. <br />
  
  It's perhaps better to think of goals as progress as opposed to numerical.<br />
  
-  <strong>The 'Might-Do' List 😂</strong><br />
-  
+ <strong>The 'Might-Do' List 😂</strong><br />
+ It's essentially a list that doesn't have any commitments. 
+ It has some rules:
+ - Plaintext/ unprecious
+ - No ranking or prioritising.
  
