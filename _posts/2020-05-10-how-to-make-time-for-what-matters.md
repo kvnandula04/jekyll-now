@@ -5,6 +5,9 @@ description: Notes from Ali Abdaal's livestream.
 published: true
 ---
 
+## Video Link
+https://www.youtube.com/watch?v=dE5TrGWl4wE
+
 ## Books Mentioned:
 1) <strong>Make Time</strong> - John Zeratsky <br />
 2) <strong>Getting Things Done</strong> - David Allen<br />
