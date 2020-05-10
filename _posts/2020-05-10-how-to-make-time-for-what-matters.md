@@ -58,4 +58,7 @@ Works expands to fill the time that we allocate to it.
 When you build and allocate a lot of time to one particular task, you can really get quality out of it.
 
 ## Becoming a Morning Person <br />
-When you wake up early with a task that you know you want to do, it provides a motivation to power yourself to wake up early.
+ - When you wake up early with a task that you know you want to do, it provides a motivation to power yourself to wake up early. <br />
+ - Staring at a screen immeditely before sleep can be super disruptive before you go to bed. If you wanna wake up early, first thing you have to do is sleep early. And to do this, you have to set a time to put away your devices so that you aren't distracted. <br />
+ 
+
