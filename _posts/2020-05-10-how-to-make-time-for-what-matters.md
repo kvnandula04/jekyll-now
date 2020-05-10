@@ -32,3 +32,8 @@ Getting stuff done isn't the same as doing the stuff. <br />
   - Think of goals as directions not destinations. <br />
   - They're more like stepping stones to structure your day. <br />
   - When we focus too much on goals, we put ourselves in a situation where we can't win.<br />
+  
+  <strong> Types of Goals</strong><br />
+  Numerical goals - <i>I wanna get x subscribers</i> <br />
+  These types of goals can be converted to the below.<br />
+  Progress goals - <i>improving quality of videos</i><br />
