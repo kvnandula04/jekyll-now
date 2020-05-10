@@ -17,9 +17,9 @@ A vision helps see what you can do to get 'there' so it's useful. <br />
 
 Getting stuff done isn't the same as doing the stuff. <br />
 
-## Steps to make time:
-1) Highlight - Make time (Defense)
-2) Laser - Stay focused(eliminate distractions) (Offense)
-3) Energise - Simple ways to take care of yourself so that you have energy to do what you want.
-4) Reflect - Look back and take notes on what worked for you.
+## Steps to make time: <br />
+1) <strong>Highlight</strong> - Make time (Defense) <br />
+2) <strong>Laser</strong> - Stay focused(eliminate distractions) (Offense) <br />
+3) <strong>Energise</strong> - Simple ways to take care of yourself so that you have energy to do what you want. <br />
+4) <strong>Reflect</strong> - Look back and take notes on what worked for you. <br />
 
