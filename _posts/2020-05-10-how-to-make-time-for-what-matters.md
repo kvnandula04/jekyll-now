@@ -89,7 +89,7 @@ Make Time is really a focusing system to figuire out what matters. It mainly pro
 </details>
 
 <details>
-<summary><strong>Misc Notes</strong></summary> <br />
+<summary>5) <strong>Misc Notes</strong></summary> <br />
 - Works expands to fill the time that we allocate to it. <br />
 - When you build and allocate a lot of time to one particular task, you can really get quality out of it. <br /> 
 - Should you go for safer options or a more story-worthy life?
