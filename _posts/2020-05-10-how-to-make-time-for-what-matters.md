@@ -9,6 +9,7 @@ published: true
 1) <strong>Make Time</strong> - John Zeratsky <br />
 2) <strong>Getting Things Done</strong> - David Allen<br />
 3) <strong>The Sprint</strong> - John Zeratsky <br />
+4) <strong>Story Worthy</strong> - Mathew Dicks <br />
 
 ## Mission vs Vision:
 Mission and vision are different. <br />
@@ -19,7 +20,7 @@ Getting stuff done isn't the same as doing the stuff. <br />
 
 ## Steps to make time: 
 <details>
-<summary>1) <strong>Highlight</strong> - Make time (Defense)</summary>
+<summary>1) <strong>Highlight</strong> - Make time (Defense)</summary><br />
  
  <strong>How do you think about what your highlight should be vs what your to-do list should be? </strong><br />
  - Use your highlight to design/structure what the rest of the day looks like. <br />
@@ -39,29 +40,27 @@ Getting stuff done isn't the same as doing the stuff. <br />
  
  <strong>The 'Might-Do' List 😂</strong><br />
  
- It's essentially a list that doesn't have any commitments. 
- It has some rules:
- - Plaintext/ unprecious
- - No ranking or prioritising.
+ It's essentially a list that doesn't have any commitments. It has some rules:<br />
+ - Plaintext/ unprecious. <br />
+ - No ranking or prioritising. <br />
  
  Similar to goals, a to-do list is like a guide to remind you what you need to. The actual task isn't done until you translate the to-do list to an action. <br />
  
 #### Differences between GTD and Make Time
 Make Time is really a focusing system to figuire out what matters. It mainly provides tools to avoid distractions and build energy to your system. GTD however, is more of a system that you have to follow to enjoy its benefits. Make Time is not an organisational system. It's more of a tool. <br />
  
- - Don't get trapped in finding the perfect productivity system.
+ - Don't get trapped in finding the perfect productivity system.<br />
 
-Works expands to fill the time that we allocate to it.
-When you build and allocate a lot of time to one particular task, you can really get quality out of it.
+
 
 #### Becoming a Morning Person
  - When you wake up early with a task that you know you want to do, it provides a motivation to power yourself to wake up early. <br />
  - Staring at a screen immeditely before sleep can be super disruptive before you go to bed. If you wanna wake up early, first thing you have to do is sleep early. And to do this, you have to set a time to put away your devices so that you aren't distracted. <br />
  
 #### How do you start?
- - Break down big things to small things.<br />
+ - Break down big things to small things.
  - Start in the middle. Pick the thing that feels like a good place to jump in. <br />
- - Dive in where you can dive in and spread out from there <br />
+ - Dive in where you can dive in and spread out from there.
  
 #### How to do tasks when they don't have a deadline?
  - Schedule days where you think you can do the task.
@@ -74,7 +73,7 @@ When you build and allocate a lot of time to one particular task, you can really
 <details>
 <summary>2) <strong>Laser</strong> - Stay focused(eliminate distractions) (Offense)</summary>
 
-#### Laser Music
+### Laser Music
  - Listen to music which doesn't interrupt your foreground.
 
 </details>
@@ -86,6 +85,20 @@ Focus on small things every day to build habits - especially exercise.
 
 </details>
 
-4) <strong>Reflect</strong> - Look back and take notes on what worked for you. <br />
+<details>
+<summary>4) <strong>Reflect</strong> - Look back and take notes on what worked for you. </summary>
+ - Write something 'story worthy' at the end of the day. This helps you force yourself to create a good story everyday.
+ 
+</details>
+
+<details>
+<summary>Misc Notes</summary>
+- Works expands to fill the time that we allocate to it. <br />
+- When you build and allocate a lot of time to one particular task, you can really get quality out of it. <br /> 
+</details>
+
+
+
+
 
 
