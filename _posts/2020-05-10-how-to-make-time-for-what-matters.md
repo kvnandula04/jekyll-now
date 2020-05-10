@@ -64,3 +64,14 @@ When you build and allocate a lot of time to one particular task, you can really
 ## How do you start?
  - Break down big things to small things.<br />
  - Start in the middle. Pick the thing that feels like a good place to jump in. <br />
+ - Dive in where you can dive in and spread out from there <br />
+ 
+## How to do tasks when they don't have a deadline?
+ - Schedule days where you think you can do the task.
+ - Create deadlines for yourself.
+
+## What are the best ways to stay focused on tasks?
+ - 
+
+ 
+ 
