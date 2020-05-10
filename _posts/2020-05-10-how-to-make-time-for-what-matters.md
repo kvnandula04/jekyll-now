@@ -16,3 +16,10 @@ Vision - a mental picture of what it would look like if you persued that mission
 A vision helps see what you can do to get 'there' so it's useful. <br />
 
 Getting stuff done isn't the same as doing the stuff. <br />
+
+## Steps to make time:
+1) Highlight - Make time (Defense)
+2) Laser - Stay focused(eliminate distractions) (Offense)
+3) Energise - Simple ways to take care of yourself so that you have energy to do what you want.
+4) Reflect - Look back and take notes on what worked for you.
+
