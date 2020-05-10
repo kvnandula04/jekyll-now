@@ -11,6 +11,7 @@ published: true
 3) <strong>The Sprint</strong> - John Zeratsky <br />
 4) <strong>Story Worthy</strong> - Mathew Dicks <br />
 5) <strong>A Million Miles in a Thousand Years</strong> - Donald Miller <br />
+5) <strong>Making of a Manager</strong> - Julie Zhuo <br />
 
 ## Mission vs Vision:
 Mission and vision are different. <br />
@@ -68,7 +69,7 @@ Make Time is really a focusing system to figuire out what matters. It mainly pro
 </details>
 
 <details>
-<summary>2) <strong>Laser</strong> - Stay focused(eliminate distractions) (Offense)</summary>
+<summary>2) <strong>Laser</strong> - Stay focused(eliminate distractions) (Offense)</summary> <br />
  
 ### Laser Music
  - Listen to music which doesn't interrupt your foreground. <br />
@@ -81,6 +82,7 @@ Make Time is really a focusing system to figuire out what matters. It mainly pro
 </details>
 
 <details>
+ 
 <summary>4) <strong>Reflect</strong> - Look back and take notes on what worked for you. </summary> <br />
  - Write something 'story worthy' at the end of the day. This helps you force yourself to create a good story everyday. <br />
  - Maybe you should life as if you can create a story of yourself. Don't make it boring. <br />
