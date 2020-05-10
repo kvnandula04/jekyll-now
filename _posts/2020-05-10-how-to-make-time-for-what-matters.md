@@ -1,5 +1,5 @@
 ---
-title: How to Make Time for what Matters
+title: How To Make Time For What Matters
 tags: [Ali Abdaal, John Zeratsky]
 description: Notes from Ali Abdaal's livestream.
 published: true
