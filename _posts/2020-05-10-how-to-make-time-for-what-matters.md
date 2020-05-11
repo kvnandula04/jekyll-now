@@ -1,6 +1,6 @@
 ---
 title: How To Make Time For What Matters
-tags: [Ali Abdaal, John Zeratsky]
+tags: [Ali Abdaal, John Zeratsky, Time Management, Productivity]
 description: Notes from Ali Abdaal's livestream.
 published: true
 ---
@@ -105,7 +105,7 @@ Make Time is really a focusing system to figuire out what matters. It mainly pro
 </details>
 
 <details>
-<summary>5) <strong>Misc Notes - Additional points that I couldn't really fit into a particular category.</strong></summary> <br />
+<summary>5) <strong>Misc Notes</strong> - Additional points that I couldn't really fit into a particular category.</summary> <br />
 - Works expands to fill the time that we allocate to it. <br />
 - When you build and allocate a lot of time to one particular task, you can really get quality out of it. <br /> 
 - Should you go for safer options or a more story-worthy life? <br />
