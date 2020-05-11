@@ -1,7 +1,7 @@
 ---
 title: How To Make Time For What Matters
 tags: [Ali Abdaal, John Zeratsky, Time Management, Productivity]
-description: Notes from Ali Abdaal's livestream.
+description: 4 Steps to make time for what you want to do.
 published: true
 ---
 
