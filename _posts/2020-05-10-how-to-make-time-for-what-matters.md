@@ -15,13 +15,14 @@ published: true
 4) <strong>Story Worthy</strong> - Mathew Dicks <br />
 5) <strong>A Million Miles in a Thousand Years</strong> - Donald Miller <br />
 5) <strong>Making of a Manager</strong> - Julie Zhuo <br />
+6) <strong>The First Twenty Minutes </strong> - Gretchen Reynolds <br />
 
 ## Mission vs Vision:
 Mission and vision are different. <br />
 <strong>Mission</strong> - How you want the world to be different with the work you're doing. <br />
 <strong>Vision</strong> - A mental picture of what it would look like if you pursued that mission. But, a vision helps see what you can do to get 'there' so it's useful. <br />
 
-## Steps to make time: 
+## 4 Steps to make time: 
 <details>
 <summary>1) <strong>Highlight</strong> - What's that one thing that you want to focus on for the whole day. The one 'highlight' that gives you energy to compelte it.</summary><br />
  
@@ -104,7 +105,7 @@ Make Time is really a focusing system to figuire out what matters. It mainly pro
 </details>
 
 <details>
-<summary>5) <strong>Misc Notes</strong></summary> <br />
+<summary>5) <strong>Misc Notes - Additional points that I couldn't really fit into a particular category.</strong></summary> <br />
 - Works expands to fill the time that we allocate to it. <br />
 - When you build and allocate a lot of time to one particular task, you can really get quality out of it. <br /> 
 - Should you go for safer options or a more story-worthy life? <br />
