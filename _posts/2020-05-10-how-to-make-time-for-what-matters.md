@@ -110,6 +110,6 @@ Make Time is really a focusing system to figuire out what matters. It mainly pro
 - When you build and allocate a lot of time to one particular task, you can really get quality out of it. <br /> 
 - Should you go for safer options or a more story-worthy life? <br />
 - With creating stories, the benefits are more for you than bragging about yourself to others. <br />
-- Getting stuff done isn't the same as doing the stuff. <br />
-- <i><strong>There are some universal truths, but the most important thing is to establish your own system and believe that your time and attention and energy are yours to design and experiment with. </strong></i><br /><br />
+- Getting stuff done isn't the same as doing the stuff. <br /><br />
+- <i><strong>There are some universal truths, but the most important thing is to establish your own system and believe that your time and attention and energy are yours to design and experiment with. </strong></i> - John Zeratsky
 </details>
