@@ -6,7 +6,7 @@ published: true
 ---
 
 ## Video Link
-<iframe width="400" height="220" src="https://www.youtube.com/watch?v=PorwgeWg8Ew" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="400" height="221" src="https://www.youtube.com/watch?v=PorwgeWg8Ew" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Video Notes
 If you want to integrate all 3 of these elements to your life, essentially you need to plan and schedule your calendar.
