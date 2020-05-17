@@ -4,21 +4,16 @@ tags: [Tim Ferriss, Creativity, Productivity]
 description: Integrating productivity, creativity and self-reflection into life.
 published: true
 ---
-
-## Video Link
-<iframe width="400" height="221" src="https://www.youtube.com/watch?v=PorwgeWg8Ew" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-## Video Notes
 If you want to integrate all 3 of these elements to your life, essentially you need to plan and schedule your calendar.
-According to him, there's no way that you can hit the nail on the head for this however, there are some good methods. <br /><br />
+According to him, there's no way that you can hit the nail on the head for this however, there are some good methods. <br />
 
 <strong>1) Productivity</strong>
 Set aside a day for a task like -> content creation -> blogging -> schoolwork -> deep learning etc. 
-This way you don't have to cram everything and the task switching cost is low and won't leave you feeling unproductive. <br /><br />
+This way you don't have to cram everything and the task switching cost is low and won't leave you feeling unproductive. <br />
 
 <strong>2) Creativity</strong>
 By following the above, you can equally set aside a day or 2 where you do creative things preferably in the morning. 
-An example is drawing and taking your time with it. <br /><br />
+An example is drawing and taking your time with it. <br />
 
 <strong>3) Reflection</strong>
 Set aside an 'off-grid' time where you're allowed to write but not read. 
