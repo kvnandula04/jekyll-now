@@ -4,7 +4,7 @@ tags: [Tim Ferriss, Creativity, Productivity]
 description: Integrating productivity, creativity and self-reflection into life.
 published: true
 ---
-If you want to integrate all 3 of these elements to your life, essentially you need to plan and schedule your calendar.
+If you want to integrate all 3 of these elements(productivity, creativity and self reflection) to your life, essentially you need to plan and schedule your calendar.
 According to him, there's no way that you can hit the nail on the head for this however, there are some good methods. <br />
 
 <strong>1) Productivity</strong>
