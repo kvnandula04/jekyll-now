@@ -8,6 +8,9 @@ layout: compress
 <body data-theme="{{ site.mode }}">
   {% include navbar.html %}
   <div class="wrapper">
+    <header class="header">
+        <h1 class="header-title center" itemprop="headline">{{ page.title | escape }}.</h1>
+    </header>
     <main aria-label="Content" style="margin-top: 10em;">
     {{ content }}
     </main>
