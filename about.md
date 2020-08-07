@@ -12,6 +12,10 @@ published: true
 
 Hi there! I am Karthik Nandula and welcome to my personal website! 
 
+![Me on the right with my bro.](/assets/img/me.jpg)
+
+https://github.com/kvnandula04/kvnandula04.github.io/blob/master/assets/img/me.jpg?raw=true
+
 ### my mission 💪
 
 My mission is to live a life online and reach out to as many people as possible to build connections and empower people. I primarily enjoy doing this through teaching and programming.
