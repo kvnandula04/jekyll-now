@@ -1,2 +1,2 @@
 # kvnandula04.github.io
-My Mind Garden/Wiki.
+1,000,000 words is the target.
