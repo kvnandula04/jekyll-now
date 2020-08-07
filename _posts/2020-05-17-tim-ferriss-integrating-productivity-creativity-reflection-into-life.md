@@ -1,5 +1,5 @@
 ---
-title: Tim Ferriss on Integrating Productivity, Creativity & Self-Reflection into life
+title: Integration
 tags: [Tim Ferriss, Creativity, Productivity]
 description: Integrating productivity, creativity and self-reflection into life.
 published: true
