@@ -13,8 +13,7 @@ published: true
 Hi there! I am Karthik Nandula and welcome to my personal website! 
 
 ![Me on the right with my bro.](/assets/img/me.jpg)
-
-https://github.com/kvnandula04/kvnandula04.github.io/blob/master/assets/img/me.jpg?raw=true
+Me on the right with my bro.
 
 ### my mission 💪
 
