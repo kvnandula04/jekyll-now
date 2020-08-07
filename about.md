@@ -18,17 +18,17 @@ My mission is to live a life online and reach out to as many people as possible 
 
 ### i'm known for 😎
 
-[Alexa](https://www.amazon.co.uk/s?k=karthik+nandula&i=alexa-skills&ref=nb_sb_noss) skills which have over 80,000 users.
-[Udemy](https://www.udemy.com/user/karthik-nandula/) course which has over 51,000 students.
-[Blog](https://www.karsidonline.com/) which has over 100,000 hits.
+1) [Alexa](https://www.amazon.co.uk/s?k=karthik+nandula&i=alexa-skills&ref=nb_sb_noss) skills which have over 80,000 users.  
+2) [Udemy](https://www.udemy.com/user/karthik-nandula/) course which has over 51,000 students.  
+3) [Blog](https://www.karsidonline.com/) which has over 100,000 hits.  
 
 ### what i'm doing 📝
 
 Presently, I am studying for my A levels while working on several projects including:
 
-1) A computer science project to build my own programming language(Krystal)
-2) A physics research project about quantum computing
-3) A research project about the future of AI and whether it will replace human brains
+1) A computer science project to build my own programming language(Krystal)   
+2) A physics research project about quantum computing   
+3) A research project about the future of AI and whether it will replace human brains  
 
 ### my favourites - books, videos, blogs etc ⭐️
 
