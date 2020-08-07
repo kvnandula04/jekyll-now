@@ -10,17 +10,43 @@ published: true
 
 ### hello 👋
 
-I am Karthik Nandula and I am a passionate programmer. I have created several applications for a broad range of platforms including Alexa Skills which have over 40,000 users. I am also a [Udemy instructor](https://www.udemy.com/user/karthik-nandula/) with over 40,000 students. If you would like to know more about me, check out [my portfolio](https://www.karsidonline.com/portfolio/). If you would like to read my blogs, check out [my blog](https://www.karsidonline.com/). Enough of the intro, what even is this?
+Hi there! I am Karthik Nandula and welcome to my personal website! 
 
-This is a mind garden/personal wiki. It's a collection of useful and interesting links and notes that I have come across. There are programming notes, drafts, potential ideas, blog links, exciting videos and more. Through this, I hope to document my learnings. And I hope that it can help you discover something new. Go ahead and explore this wild garden! But be careful near the stinging nettles.
+### my mission 💪
+
+My mission is to live a life online and reach out to as many people as possible to build connections and empower people. I primarily enjoy doing this through teaching and programming.
+
+### i'm known for 😎
+
+[Alexa](https://www.amazon.co.uk/s?k=karthik+nandula&i=alexa-skills&ref=nb_sb_noss) skills which have over 80,000 users.
+[Udemy](https://www.udemy.com/user/karthik-nandula/) course which has over 51,000 students.
+[Blog](https://www.karsidonline.com/) which has over 100,000 hits.
+
+### what i'm doing 📝
+
+Presently, I am studying for my A levels while working on several projects including:
+
+1) A computer science project to build my own programming language(Krystal)
+2) A physics research project about quantum computing
+3) A research project about the future of AI and whether it will replace human brains
+
+### my favourites - books, videos, blogs etc ⭐️
 
 If you're interested, you can see a list of all my favourites [here](https://www.notion.so/karthiknandula/Favourites-2f30c202f6f74559b23773fbd48b0c00).
 
-##### connect 
+### other things 🤔
+
+I enjoy reading, note taking, listening to music, programming and twitter.
+
+### connect with me 🔗
+
+I am mostly active on Twitter these days as I enjoy it a lot! You'll have great chances of catching me there. 
 
 - [Twitter](https://twitter.com/nandulakarthik)
 - [Facebook](https://www.facebook.com/karthiknandula1)
 - [Instagram](https://www.instagram.com/apple.karthik1/?hl=en)
 - [LinkedIn](https://uk.linkedin.com/in/karthik-nandula)
 - [YouTube](https://www.youtube.com/channel/UCKPqvwlU9lKunpD8yPf4NqQ)
+
+
 
