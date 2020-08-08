@@ -5,7 +5,7 @@ description: 1,000,000 words on its way.
 published: true
 ---
 
-![Inception](https://github.com/kvnandula04/kvnandula04.github.io/blob/master/assets/img/001/Inception.png?raw=true)Inception
+![Inception](https://github.com/kvnandula04/kvnandula04.github.io/blob/master/assets/img/001/Inception.png?raw=true)
 
 ### **One at a time**
 
@@ -25,17 +25,18 @@ I attach some thoughts to habit-building...
 
 **Firstly** , I believe that &#39;_motivation is a myth_&#39;.
 
-![](RackMultipart20200808-4-83rj5f_html_a21c7e9c135cf5cc.png)
+![](https://github.com/kvnandula04/kvnandula04.github.io/blob/master/assets/img/001/Motivation%20is%20a%20myth.png?raw=true)
+-> Motivation is a myth book <-
 
 Yes, you heard that right. What I mean by this is that motivation doesn&#39;t lead to doing tasks. Doing the task itself leads to motivation. When I first heard this(from [Ali Abdaal](https://www.youtube.com/watch?v=kzAuvOr-YsM)), I was mind blown! My perception has recently shifted to seeing everything as an experiment that you try and the result is either motivation to continue doing it or boredom if you don&#39;t like it. The former mostly applies to me because most of the handful of experiments I choose are things I&#39;m interested in so, I don&#39;t get bored. I start doing the task and automatically get interested to be able to continue doing it. This is the high-level formula:
 
-![](RackMultipart20200808-4-83rj5f_html_ce341fce20809696.png)
+![](https://github.com/kvnandula04/kvnandula04.github.io/blob/master/assets/img/001/Formula.png?raw=true)
 
 What you see here is the concept of &#39;motivation is a myth&#39; in action. Alright, that&#39;s out of the way… Next up.
 
 **Secondly** , building a habit requires you to do is consistently for the first few days. For a habit to take formation, you need to get the &#39;snowball rolling&#39;. Once you do the first few weeks, the task becomes an integral part of your lifestyle and workflow and it fits nicely into your day. There&#39;s loads of research and evidence stating that it takes between 18-254 days to build a habit but, I don&#39;t buy that. I simply believe that if you can show up every day for the first few days, you&#39;re on your way to make history(_ok, maybe I exaggerated that too much_).
 
-![](RackMultipart20200808-4-83rj5f_html_47c7d06300f14061.png)
+![]()
 
 Snowball effect
 
