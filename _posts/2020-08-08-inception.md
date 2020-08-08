@@ -4,11 +4,6 @@ tags: [1000, Inception, Habits]
 description: 1,000,000 words on its way.
 published: true
 ---
-## Karthik Nandula
-
-# 001 - Inception
-
-August 8th 2020 ![](RackMultipart20200808-4-83rj5f_html_237499165a11f2b9.gif)
 
 ![](RackMultipart20200808-4-83rj5f_html_a7b4ee61d731fe0e.png)
 
@@ -66,11 +61,14 @@ For more reading about this, I highly recommend reading [@visakanv&#39;s blog ab
 
 ### **Thanks and final words**
 
-This project is purely inspired by [@visakanv](https://twitter.com/visakanv?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor) who is one of my recent favourite people on the internet! He&#39;s mostly active on Twitter which I&#39;m sure you&#39;ll have lots of questions about, and he&#39;s a very interesting person. Go check him out!
+This project is purely inspired by [@visakanv](https://twitter.com/visakanv?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor) who is one of my recent favourite people on the internet! He&#39;s mostly active on Twitter which I&#39;m sure you&#39;ll have lots of questions about, and he&#39;s a very interesting person. [Go check him out!]()
 
 This project could have been done completely offline. But writing in public is much rarer than it should be. And I thought I could contribute my part of making it less rare by making these blogs/documents/whatever you wanna call it, public. Another point I&#39;d like to mention is that we consume more and create less. And, I feel like we need to balance the equation. It may seem like there are so many creators out there and what&#39;s the point? It&#39;s salient to understand that everyone has their style and consumers are after that style! So this idea has contributed to my decision of making this project public.
 
 ![](RackMultipart20200808-4-83rj5f_html_22615957555a2a10.png)
 
 With that, I am now going to wrap up the blog here and enjoy the landscape that&#39;s zooming past me. (I&#39;m on a road trip…)
-<iframe src="https://docs.google.com/document/d/e/2PACX-1vTAi2FChgapv-NDL894P1tKP8cCLnFLCExqSls79Y6HcolCyoqUWueo0aVQFzwaBzVild4T4By3C6Og/pub?embedded=true" width="720" height="960"></iframe>
+
+---
+
+If you'd rather read the Google Docs Embed, you can do so by clicking on [this link](https://docs.google.com/document/d/e/2PACX-1vTAi2FChgapv-NDL894P1tKP8cCLnFLCExqSls79Y6HcolCyoqUWueo0aVQFzwaBzVild4T4By3C6Og/pub?embedded=true).
