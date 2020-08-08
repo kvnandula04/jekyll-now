@@ -1,6 +1,6 @@
 ---
 title: An experiment
-tags: [experiments]
+tags: [Experiment]
 description: Life is an experiment.
 published: true
 ---
