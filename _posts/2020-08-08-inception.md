@@ -25,8 +25,11 @@ I attach some thoughts to habit-building...
 
 **Firstly** , I believe that &#39;_motivation is a myth_&#39;.
 
-![](https://github.com/kvnandula04/kvnandula04.github.io/blob/master/assets/img/001/Motivation%20is%20a%20myth.png?raw=true)
--> Motivation is a myth book <-
+<p align="center">
+  ![](https://github.com/kvnandula04/kvnandula04.github.io/blob/master/assets/img/001/Motivation%20is%20a%20myth.png?raw=true)
+  Motivation is a myth book
+</p>
+
 
 Yes, you heard that right. What I mean by this is that motivation doesn&#39;t lead to doing tasks. Doing the task itself leads to motivation. When I first heard this(from [Ali Abdaal](https://www.youtube.com/watch?v=kzAuvOr-YsM)), I was mind blown! My perception has recently shifted to seeing everything as an experiment that you try and the result is either motivation to continue doing it or boredom if you don&#39;t like it. The former mostly applies to me because most of the handful of experiments I choose are things I&#39;m interested in so, I don&#39;t get bored. I start doing the task and automatically get interested to be able to continue doing it. This is the high-level formula:
 
