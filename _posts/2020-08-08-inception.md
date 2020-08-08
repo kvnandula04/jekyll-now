@@ -76,7 +76,3 @@ This project could have been done completely offline. But writing in public is m
 <center><blockquote class="twitter-tweet"><p lang="en" dir="ltr">I think a big reason why so many people are unhappy is because we’re a society of consumers.<br><br>We need to encourage more people to create.<br><br>There’s something uniquely rewarding and enjoyable about creating something.<br><br>Make more, consume less.</p>&mdash; Mckay Wrigley (@mckaywrigley) <a href="https://twitter.com/mckaywrigley/status/1291842384993480704?ref_src=twsrc%5Etfw">August 7, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></center>
 
 With that, I am now going to wrap up the blog here and enjoy the landscape that&#39;s zooming past me. (I&#39;m on a road trip…)
-
-### **Google Embed**
-
-If you'd rather read the Google Docs Embed, you can do so by clicking on [this link](https://docs.google.com/document/d/e/2PACX-1vTAi2FChgapv-NDL894P1tKP8cCLnFLCExqSls79Y6HcolCyoqUWueo0aVQFzwaBzVild4T4By3C6Og/pub?embedded=true).
