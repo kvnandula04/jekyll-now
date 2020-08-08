@@ -1,5 +1,5 @@
 ---
-title: 001 - Inception
+title: 0001 - Inception
 tags: [1000, Inception, Habits]
 description: 1,000,000 words on its way.
 published: true
