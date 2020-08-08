@@ -61,7 +61,7 @@ How does this all tie in? Well, there&#39;s another common saying that when we &
 
 Mistakes are an intrinsic part of improvement. In this project, I&#39;m going to be bad initially. I know it. Accepting mistakes and willing to try multiple &#39;versions&#39; is part of the learning process. This doesn&#39;t mean that you deliberately make mistakes; you need to give it your all.
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Process. <a href="https://t.co/VWqY7eFTN7">pic.twitter.com/VWqY7eFTN7</a></p>&mdash; Visualize Value (@visualizevalue) <a href="https://twitter.com/visualizevalue/status/1289720795808305152?ref_src=twsrc%5Etfw">August 2, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<center><blockquote class="twitter-tweet"><p lang="en" dir="ltr">Process. <a href="https://t.co/VWqY7eFTN7">pic.twitter.com/VWqY7eFTN7</a></p>&mdash; Visualize Value (@visualizevalue) <a href="https://twitter.com/visualizevalue/status/1289720795808305152?ref_src=twsrc%5Etfw">August 2, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></center>
 
 So, with that, I commit to trying my best in this project; with 1000 blogs, I&#39;m sure I can reap multiple versions of the same concept to squeeze in improvements.
 
@@ -73,10 +73,10 @@ This project is purely inspired by [@visakanv](https://twitter.com/visakanv?ref_
 
 This project could have been done completely offline. But writing in public is much rarer than it should be. And I thought I could contribute my part of making it less rare by making these blogs/documents/whatever you wanna call it, public. Another point I&#39;d like to mention is that we consume more and create less. And, I feel like we need to balance the equation. It may seem like there are so many creators out there and what&#39;s the point? It&#39;s salient to understand that everyone has their style and consumers are after that style! So this idea has contributed to my decision of making this project public.
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">I think a big reason why so many people are unhappy is because we’re a society of consumers.<br><br>We need to encourage more people to create.<br><br>There’s something uniquely rewarding and enjoyable about creating something.<br><br>Make more, consume less.</p>&mdash; Mckay Wrigley (@mckaywrigley) <a href="https://twitter.com/mckaywrigley/status/1291842384993480704?ref_src=twsrc%5Etfw">August 7, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<center><blockquote class="twitter-tweet"><p lang="en" dir="ltr">I think a big reason why so many people are unhappy is because we’re a society of consumers.<br><br>We need to encourage more people to create.<br><br>There’s something uniquely rewarding and enjoyable about creating something.<br><br>Make more, consume less.</p>&mdash; Mckay Wrigley (@mckaywrigley) <a href="https://twitter.com/mckaywrigley/status/1291842384993480704?ref_src=twsrc%5Etfw">August 7, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></center>
 
 With that, I am now going to wrap up the blog here and enjoy the landscape that&#39;s zooming past me. (I&#39;m on a road trip…)
 
----
+### **Google Embed**
 
 If you'd rather read the Google Docs Embed, you can do so by clicking on [this link](https://docs.google.com/document/d/e/2PACX-1vTAi2FChgapv-NDL894P1tKP8cCLnFLCExqSls79Y6HcolCyoqUWueo0aVQFzwaBzVild4T4By3C6Og/pub?embedded=true).
