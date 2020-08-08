@@ -5,7 +5,7 @@ description: 1,000,000 words on its way.
 published: true
 ---
 
-![](RackMultipart20200808-4-83rj5f_html_a7b4ee61d731fe0e.png)
+![Inception](https://github.com/kvnandula04/kvnandula04.github.io/blob/master/assets/img/001/Inception.png?raw=true)Inception
 
 ### **One at a time**
 
