@@ -5,7 +5,7 @@ description: Let's talk about live streams!
 published: true
 ---
 
-![](https://github.com/kvnandula04/kvnandula04.github.io/blob/master/assets/img/0002/Live%20Streams!.jfif)
+![](https://github.com/kvnandula04/kvnandula04.github.io/blob/master/assets/img/0002/Live%20Streams!.jpg?raw=true)
 
 Recently, I have been doing a few study live streams on YouTube as a way to encourage myself to study. The idea came about when I was procrastinating consistently(lol) at the beginning of this week.
 
@@ -32,7 +32,7 @@ I suppose the biggest reason to make things public is that you can reach out to 
 Yes. This is one of the most interesting ideas that has, again, captivated me to the &#39;make it public(MIP)&#39; concept. I find that everyone has their style and perception of the world and with the vast population that we have, ideas and perspectives are such a diverse array that &#39;everyone is their own niche&#39;. This has prompted me to create my own style of content on YouTube by live streaming.
 
 <p align="center">
-  <img src="https://github.com/kvnandula04/kvnandula04.github.io/blob/master/assets/img/0002/You%20have%20your%20own%20style.jfif"><br>
+  <img src="https://github.com/kvnandula04/kvnandula04.github.io/blob/master/assets/img/0002/You%20have%20your%20own%20style.jpg?raw=true"><br>
   You have your own style
 </p>
 
@@ -66,7 +66,7 @@ There is a lot of content out there! It&#39;s a boundless ocean. However, I&#39;
 The Internet is full of awesome people! The communities I&#39;ve been establishing on various platforms, including Twitter, have allowed me to explore fascinating readers, avid programmers, aspirational writers and meaningful content procedures. This has driven me to produce great content and also learn from them! The opportunities for social media are boundless. They&#39;ve allowed me to reach out to relatively popular people with rarely anything going! With that, I&#39;ve been able to compile connections with great people and at occasions even arrange meetups! Unfortunately, the present situations hinder the possibilities of taking the connection to an actual meetup. Though there&#39;s a technology for that too!
 
 <p align="center">
-  <img src="https://github.com/kvnandula04/kvnandula04.github.io/blob/master/assets/img/0002/Internet%20Community.jfif"><br>
+  <img src="https://github.com/kvnandula04/kvnandula04.github.io/blob/master/assets/img/0002/Internet%20Community.jpg?raw=true"><br>
   Internet Community
 </p>
 
