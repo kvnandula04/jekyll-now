@@ -63,7 +63,7 @@ There is a lot of content out there! It&#39;s a boundless ocean. However, I&#39;
 
 **2) I also plan to build an Internet community.**
 
-The Internet is full of awesome people! The communities I&#39;ve been establishing on various platforms, including Twitter, have allowed me to explore fascinating readers, avid programmers, aspirational writers and meaningful content procedures. This has driven me to produce great content and also learn from them! The opportunities for social media are boundless. They&#39;ve allowed me to reach out to relatively popular people with rarely anything going! With that, I&#39;ve been able to compile connections with great people and at occasions even arrange meetups! Unfortunately, the present situations hinder the possibilities of taking the connection to an actual meetup. Though there&#39;s a technology for that too!
+The Internet is full of awesome people! The communities I&#39;ve been establishing on various platforms, including Twitter, have allowed me to explore fascinating readers, avid programmers, aspirational writers and meaningful content producers. This has driven me to produce great content and also learn from them! The opportunities for social media are boundless. They&#39;ve allowed me to reach out to relatively popular people with rarely anything going! With that, I&#39;ve been able to compile connections with great people and at occasions even arrange meetups! Unfortunately, the present situation hinders the possibilities of taking the connection to an actual meetup. Though there&#39;s a technology for that too!
 
 <p align="center">
   <img src="https://github.com/kvnandula04/kvnandula04.github.io/blob/master/assets/img/0002/Internet%20Community.jpg?raw=true"><br>
