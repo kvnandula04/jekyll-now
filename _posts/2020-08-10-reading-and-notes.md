@@ -1,7 +1,7 @@
 ---
-title: 0003 - Note Taking!
-tags: [1000, Zettelkasten, Note Taking]
-description: Notes, notes, notes!
+title: 0003 - Reading & Note Taking
+tags: [1000, Zettelkasten, Note Taking, Reading]
+description: Let's read my notes.
 published: true
 ---
 
