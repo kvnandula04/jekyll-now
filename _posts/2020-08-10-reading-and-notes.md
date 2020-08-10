@@ -5,12 +5,16 @@ description: Let's read my notes.
 published: true
 ---
 
-<>
-https://github.com/kvnandula04/kvnandula04.github.io/blob/master/assets/img/0003/Note%20Taking.jpg?raw=true
+![](https://github.com/kvnandula04/kvnandula04.github.io/blob/master/assets/img/0003/Note%20Taking.jpg?raw=true)
 
 Days are ticking so fast man! 2020 doesn&#39;t even feel like a thing anymore! Anyway, I&#39;m going to write about note-taking today. It may be pretty in-depth. It most likely will be. But, I don&#39;t plan to bracket everything about note-taking into this blog; I will do a series of blogs on this topic as a whole.
 
 Recently, I read a book called &#39;[How to take smart notes](https://www.amazon.co.uk/How-Take-Smart-Notes-Nonfiction/dp/1542866502/ref=sr_1_1?adgrpid=57289818633&amp;dchild=1&amp;gclid=CjwKCAjw4MP5BRBtEiwASfwAL1aBbo3pBhfPUxobTJiKONb7iywHPugu35wOzHiHU5SI7AgHD4uOyxoCUf8QAvD_BwE&amp;hvadid=272827370042&amp;hvdev=c&amp;hvlocphy=1006621&amp;hvnetw=g&amp;hvqmt=e&amp;hvrand=716093766392939631&amp;hvtargid=kwd-431918004859&amp;hydadcr=24430_1816092&amp;keywords=how+to+take+smart+notes&amp;qid=1597088109&amp;sr=8-1&amp;tag=googhydr-21)&#39; by Sönke Ahrens. It&#39;s amazing! First, some context…
+
+<p align="center">
+  <img src="https://github.com/kvnandula04/kvnandula04.github.io/blob/master/assets/img/0003/How%20to%20take%20smart%20notes.jpg?raw=true"><br>
+  How to take smart notes book
+</p>
 
 Before reading this book, I was basically at odds with the idea of note-taking. The thought itself haunted me and was down on my list of &#39;_things I hate_&#39;. I was in love with active recall(where you &#39;recall&#39; everything you have learnt without looking at notes) and basically just listened to classes with rarely any pen on paper.
 
@@ -29,6 +33,11 @@ The book has been a gate-opener for me into the book world. I have read a few bo
 Currently, I am reading &#39;Make it Stick&#39; which is also about studying and I have been reading on my iPad&#39;s Apple Books app. It&#39;s a brilliant app that allows highlights, notes and easy navigation which has all contributed to my reading habit.
 
 I generally read for about 15 mins which is very little and my reading pace is rather snail-like. However, I enjoy the time that I read and tend to fall asleep immediately.
+
+<p align="center">
+  <img src="https://github.com/kvnandula04/kvnandula04.github.io/blob/master/assets/img/0003/Reading%20at%20night.jpg?raw=true"><br>
+  Reading at night
+</p>
 
 Recently, I have encountered many readers talking about how valuable a book is and my attraction for reading more has prospered. This is why I aim to increase my reading speed and time to really appreciate the value that a book can bring.
 
