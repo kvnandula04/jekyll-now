@@ -35,7 +35,7 @@ Currently, I am reading &#39;Make it Stick&#39; which is also about studying and
 I generally read for about 15 mins which is very little and my reading pace is rather snail-like. However, I enjoy the time that I read and tend to fall asleep immediately.
 
 <p align="center">
-  <img src="https://github.com/kvnandula04/kvnandula04.github.io/blob/master/assets/img/0003/Reading%20at%20night.jpg?raw=true" width="600" height="400"><br>
+  <img src="https://github.com/kvnandula04/kvnandula04.github.io/blob/master/assets/img/0003/Reading%20at%20night.jpg?raw=true"><br>
   Reading at night
 </p>
 
@@ -66,14 +66,14 @@ There are heaps of note-taking apps out there and a dictionary of note-taking me
 This is generally the confusing part, but all you do is this:
 
 <p align="center">
-  <img src="https://github.com/kvnandula04/kvnandula04.github.io/blob/master/assets/img/0003/Process.png?raw=true width="600" height="400""><br>
+  <img src="https://github.com/kvnandula04/kvnandula04.github.io/blob/master/assets/img/0003/Process.png?raw=true"><br>
   Process
 </p>
 
 There are reams of benefits from this system which come naturally built-in and I highly recommend reading the book to get a good intuition. Notably, though, the Zettelkasten process makes the idea generation process super easy and more successful. This is because new ideas come from connections of existing ideas. Once you have a library of connections, idea generation becomes a stroll in the park. This is why Zettelkasten note-takers aim to maximise connections over notes. One of the trending tools that enables this is Roam Research which I&#39;ve written more about [here](https://www.karsidonline.com/top-3-productivity-apps-you-should-use/).
 
 <p align="center">
-  <img src="https://github.com/kvnandula04/kvnandula04.github.io/blob/master/assets/img/0003/Zettelkasten%20Notes.png?raw=true width="600" height="400""><br>
+  <img src="https://github.com/kvnandula04/kvnandula04.github.io/blob/master/assets/img/0003/Zettelkasten%20Notes.png?raw=true"><br>
   Zettelkasten Notes
 </p>
 
