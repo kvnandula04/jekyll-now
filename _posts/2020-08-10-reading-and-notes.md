@@ -5,7 +5,8 @@ description: Let's read my notes.
 published: true
 ---
 
-![](RackMultipart20200810-4-11wkzu8_html_316923c6935fa5f0.png)
+<>
+https://github.com/kvnandula04/kvnandula04.github.io/blob/master/assets/img/0003/Note%20Taking.jpg?raw=true
 
 Days are ticking so fast man! 2020 doesn&#39;t even feel like a thing anymore! Anyway, I&#39;m going to write about note-taking today. It may be pretty in-depth. It most likely will be. But, I don&#39;t plan to bracket everything about note-taking into this blog; I will do a series of blogs on this topic as a whole.
 
@@ -55,9 +56,17 @@ There are heaps of note-taking apps out there and a dictionary of note-taking me
 
 This is generally the confusing part, but all you do is this:
 
-![](RackMultipart20200810-4-11wkzu8_html_8c33050dce9add2f.png)
+<p align="center">
+  <img src="https://github.com/kvnandula04/kvnandula04.github.io/blob/master/assets/img/0003/Process.png?raw=true"><br>
+  Process
+</p>
 
 There are reams of benefits from this system which come naturally built-in and I highly recommend reading the book to get a good intuition. Notably, though, the Zettelkasten process makes the idea generation process super easy and more successful. This is because new ideas come from connections of existing ideas. Once you have a library of connections, idea generation becomes a stroll in the park. This is why Zettelkasten note-takers aim to maximise connections over notes. One of the trending tools that enables this is Roam Research which I&#39;ve written more about [here](https://www.karsidonline.com/top-3-productivity-apps-you-should-use/).
+
+<p align="center">
+  <img src="https://github.com/kvnandula04/kvnandula04.github.io/blob/master/assets/img/0003/Zettelkasten%20Notes.png?raw=true"><br>
+  Zettelkasten Notes
+</p>
 
 My process now for any content I consume involves Roam. I essentially &#39;scope&#39; the content as I am consuming it to give me a general overview of what I have just engrossed. Then I expand on the topics while translating it into my language. And traditionally, the Zettelkasten system requires the &#39;connecting the dots&#39; step at the end, however, with Roam I can make the connections as I go which is a delight. This has become a habit for me now and I love it! I enjoy it too, which is important!
 
