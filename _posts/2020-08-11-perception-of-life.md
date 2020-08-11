@@ -41,7 +41,7 @@ The wonderful thing that I perceive from my trivial understanding of life is tha
 
 I conceive this to be another purpose for life.
 
-### Durability
+### Duration
 
 We don&#39;t know how long we will be here. It&#39;s unpredictable. This is why we should maximise our use of opportunities. Where you are offered them, you should grab it! I have been consciously bad at this because I have never had this particular perception in the past. During my high school years, I didn&#39;t necessarily sign up to things even when they were vaguely interesting. There&#39;s a great deal that comes out of doing this(signing up to things)...
 
