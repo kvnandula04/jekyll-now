@@ -5,7 +5,7 @@ description: 1,000,000 words on its way.
 published: true
 ---
 
-![Inception](https://github.com/kvnandula04/kvnandula04.github.io/blob/master/assets/img/001/Inception.png?raw=true)
+![Inception](https://github.com/kvnandula04/kvnandula04.github.io/blob/master/assets/img/0001/Inception.png?raw=true)
 
 ### **One at a time**
 
@@ -26,7 +26,7 @@ I attach some thoughts to habit-building...
 **Firstly** , I believe that &#39;_motivation is a myth_&#39;.
 
 <p align="center">
-  <img src="https://github.com/kvnandula04/kvnandula04.github.io/blob/master/assets/img/001/Motivation%20is%20a%20myth.png?raw=true"><br>
+  <img src="https://github.com/kvnandula04/kvnandula04.github.io/blob/master/assets/img/0001/Motivation%20is%20a%20myth.png?raw=true"><br>
   Motivation is a myth book
 </p>
 
@@ -34,7 +34,7 @@ I attach some thoughts to habit-building...
 Yes, you heard that right. What I mean by this is that motivation doesn&#39;t lead to doing tasks. Doing the task itself leads to motivation. When I first heard this(from [Ali Abdaal](https://www.youtube.com/watch?v=kzAuvOr-YsM)), I was mind blown! My perception has recently shifted to seeing everything as an experiment that you try and the result is either motivation to continue doing it or boredom if you don&#39;t like it. The former mostly applies to me because most of the handful of experiments I choose are things I&#39;m interested in so, I don&#39;t get bored. I start doing the task and automatically get interested to be able to continue doing it. This is the high-level formula:
 
 <p align="center">
-  <img src="https://github.com/kvnandula04/kvnandula04.github.io/blob/master/assets/img/001/Formula.png?raw=true">
+  <img src="https://github.com/kvnandula04/kvnandula04.github.io/blob/master/assets/img/0001/Formula.png?raw=true">
 </p>
 
 What you see here is the concept of &#39;motivation is a myth&#39; in action. Alright, that&#39;s out of the way… Next up.
@@ -42,7 +42,7 @@ What you see here is the concept of &#39;motivation is a myth&#39; in action. Al
 **Secondly** , building a habit requires you to do is consistently for the first few days. For a habit to take formation, you need to get the &#39;snowball rolling&#39;. Once you do the first few weeks, the task becomes an integral part of your lifestyle and workflow and it fits nicely into your day. There&#39;s loads of research and evidence stating that it takes between 18-254 days to build a habit but, I don&#39;t buy that. I simply believe that if you can show up every day for the first few days, you&#39;re on your way to make history(_ok, maybe I exaggerated that too much_).
 
 <p align="center">
-  <img src="https://github.com/kvnandula04/kvnandula04.github.io/blob/master/assets/img/001/Snowball%20effect.png?raw=true"><br>
+  <img src="https://github.com/kvnandula04/kvnandula04.github.io/blob/master/assets/img/0001/Snowball%20effect.png?raw=true"><br>
   Snowball effect
 </p>
 
@@ -51,7 +51,7 @@ What you see here is the concept of &#39;motivation is a myth&#39; in action. Al
 Let&#39;s take a simple example. Let&#39;s say that you want to stop using your phone in bed. In this case, you&#39;re creating a new good habit. So, create &#39;friction&#39; between you and the phone. Throw(literally) the phone to the other side of the room before lying on your bed to make it harder for you to use it while on the bed. Putting it next to you as if it&#39;s your cuddly teddy bear is the move that destroys many people&#39;s sleep. Simply replace it with something else - perhaps a book! Revolutionary isn&#39;t it?
 
 <p align="center">
-  <img src="https://github.com/kvnandula04/kvnandula04.github.io/blob/master/assets/img/001/Friction.png?raw=true"><br>
+  <img src="https://github.com/kvnandula04/kvnandula04.github.io/blob/master/assets/img/0001/Friction.png?raw=true"><br>
   Friction
 </p>
 
