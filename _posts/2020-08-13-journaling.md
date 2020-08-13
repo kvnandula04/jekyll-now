@@ -9,7 +9,7 @@ published: true
 
 Alright, got my timer is on 40 minutes. And, 3, 2, 1, off I go…
 
-So, today I wanted to write about journaling which is something I have developed as a skill since (insert) and I have thoroughly enjoyed it. The ROI is immeasurable man! For some context - every time I say ROI I basically mean that the returns for how much I invest in terms of time or money. In this context, journaling is an activity with such great returns on the time invested. That said, I don&#39;t actually spend that long on it. I do it every night for around 15 mins and it&#39;s more than enough time!
+So, today I wanted to write about journaling which is something I have developed as a skill since the beginning of this year and I have thoroughly enjoyed it. The ROI is immeasurable man! For some context - every time I say ROI I basically mean that the returns for how much I invest in terms of time or money. In this context, journaling is an activity with such great returns on the time invested. That said, I don&#39;t actually spend that long on it. I do it every night for around 15 mins and it&#39;s more than enough time!
 
 ### What do I actually write about?
 
@@ -22,7 +22,7 @@ Well, I use a template which contains 3 sections:
 
 And it looks like this:
 
-![](kvnandula04.github.io/assets/img/0006/Journal Day.png)
+![](https://wiki.karsidonline.com/assets/img/0006/Journal%20Day.png)
 
 You can probably make out most of the information though, for the sake of explanation - the morning dump is where I write down all of my thoughts, plans and &#39;[adventures](https://wiki.karsidonline.com/perception-of-life/)&#39; I plan to work on for the day. The highlights section actually contains the tasks that I want to work on throughout the day. Then, the night dump is for when I am about to sleep and I write about what I did in the day and what adventures I ventured on as well as some interesting information I&#39;ve picked up during the day. Lastly, I write down things I&#39;ve learnt throughout the day. And yes, all of this takes just a mere 15 mins. I&#39;m going to repeat my point that I&#39;ve mentioned in the past few blogs again - if you don&#39;t have 15 minutes in your 12+ day, you&#39;re lying.
 
@@ -36,7 +36,7 @@ I have discovered many interesting things that have come out of journaling. One 
 
 Another point that stems from this idea is the &#39;family member visit&#39;. I am talking to my family a lot more by simply asking &#39;when did the amazon delivery come&#39; or &#39;what time did we go to tennis&#39;. These simple questions open up a domain of complementary questions which expands into a full-blown conversation and that&#39;s what I love! Thanks to the journaling, nowadays, I am speaking to my family members a lot more! Going back to the above point.
 
-So as I remember more of what happened each day, I can easily use conversation starters or recall specific events because I have taken that minute additional step to write it down. And writing helps man(insert link here)! Which is why you should start journaling!
+So as I remember more of what happened each day, I can easily use conversation starters or recall specific events because I have taken that minute additional step to write it down. And [writing helps man](https://wiki.karsidonline.com/reading-and-notes/)! Which is why you should start journaling!
 
 ### Improvements
 
