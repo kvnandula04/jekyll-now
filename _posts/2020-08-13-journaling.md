@@ -1,7 +1,7 @@
 ---
-title: Welcome
-tags: [first]
-description: bonjourno.
+title: Journaling
+tags: [Journaling, Habits, Writing]
+description: 15 mins and you're done.
 published: true
 ---
 
