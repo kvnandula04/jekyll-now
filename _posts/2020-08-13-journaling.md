@@ -1,5 +1,5 @@
 ---
-title: Journaling
+title: 0006 - Journaling
 tags: [Journaling, Habits, Writing]
 description: 15 mins and you're done.
 published: true
