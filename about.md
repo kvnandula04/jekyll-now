@@ -3,47 +3,26 @@ title: about
 permalink: /about/
 layout: page
 excerpt: >-
-  I am Karthik Nandula.
+  From a young age, travelling has been an instrumental way of building experiences for us...
 comments: false
 published: true
 ---
 
 ### hello 👋
 
-Hi there! I am Karthik Nandula and welcome to my personal website! 
+Hi there! We are KARSID and welcome to our blog! 
 
-![Me on the right with my bro.](/assets/img/me.jpg)
-Me on the right with my bro.
+![That's us.](/assets/img/us.jpg)
 
-### my mission 💪
+### about us 💪
 
-My mission is to live a life online and reach out to as many people as possible to build connections and empower people. I primarily enjoy doing this through teaching and programming.
+From a young age, travelling has been an instrumental way of building experiences for us. And it became a habit for us to pen our experiences on paper as soon as we returned home – which allowed the writing to be as original and realistic as possible. Of course, this was with a slight nudge from our father who has constantly motivated us to savour these writings for us to look back when we’re older. Quickly, it became a hassle to maintain physical copies of our adventures which sparked the initiation of this website. 
 
-### i'm known for 😎
+With adventure-packed trips to fascinating places all around the world now, this blog is now slowly developing into what we’d originally set out on. And whilst its primary focus is to share our travel experiences, it also encourages us to share writings about any topic for that matter which is why you may find a few tech and sports-related blogs as well.
 
-1) [Alexa](https://www.amazon.co.uk/s?k=karthik+nandula&i=alexa-skills&ref=nb_sb_noss) skills which have over 80,000 users.  
-2) [Udemy](https://www.udemy.com/user/karthik-nandula/) course which has over 51,000 students.  
-3) [Blog](https://www.karsidonline.com/) which has over 15,000 views.  
+We hope to write as many of our experiences as possible and hopefully, we can mature into a full-fledged travel blog in the future.
 
-### what i'm doing 📝
-
-Presently, I am studying for my A levels while working on several projects including:
-
-1) A computer science project to build my own programming language(Krystal).   
-2) A physics research project about quantum computing.   
-3) A research project about the future of AI and whether it will replace human brains.  
-
-### my favourites - books, videos, blogs etc ⭐️
-
-If you're interested, you can see a list of all my favourites [here](https://www.notion.so/karthiknandula/Favourites-2f30c202f6f74559b23773fbd48b0c00).
-
-### other things 🤔
-
-I enjoy reading, note taking, listening to music, programming and twitter.
-
-### connect with me 🔗
-
-I am mostly active on Twitter these days as I enjoy it a lot! You'll have great chances of catching me there. 
+### connect with us 🔗
 
 - [Twitter](https://twitter.com/nandulakarthik)
 - [Facebook](https://www.facebook.com/karthiknandula1)
