@@ -18,7 +18,7 @@ author:
   avatar: /assets/img/avatar.jpeg
 
 # Url settings
-url: "https://wiki.karsidonline.com"
+url: "https://karsidonline.com"
 baseurl:
 permalink: /:title/
 google_analytics:
