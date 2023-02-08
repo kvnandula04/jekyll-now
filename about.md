@@ -24,11 +24,9 @@ We hope to write as many of our experiences as possible and hopefully, we can ma
 
 ### connect with us 🔗
 
-- [Twitter](https://twitter.com/nandulakarthik)
-- [Facebook](https://www.facebook.com/karthiknandula1)
-- [Instagram](https://www.instagram.com/apple.karthik1/?hl=en)
-- [LinkedIn](https://uk.linkedin.com/in/karthik-nandula)
-- [YouTube](https://www.youtube.com/channel/UCKPqvwlU9lKunpD8yPf4NqQ)
+- [Pinterest](https://www.pinterest.co.uk/karthiknandula/)
+- [Facebook](https://www.facebook.com/karsidonline/)
+- [Instagram](https://www.instagram.com/karsidonline/?hl=en)
 
 
 
